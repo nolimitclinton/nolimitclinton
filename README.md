@@ -10,3 +10,5 @@
 - 📫 How to reach me: onuohaclinton7@gmail.com
 - ⚡ Fun fact: I love to eat!
 
+Feel free to reach me here: 
+https://www.linkedin.com/in/clinton-onuoha-39b8521b8
