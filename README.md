@@ -2,11 +2,11 @@
 
 
 
-- 🔭 I’m currently working on becoming a Data Analyst
-- 🌱 I’m currently learning Microsoft Power BI, MySQL and Python
+- 🔭 I’m currently working on becoming a Software Engineer
+- 🌱 I’m currently learning React and React Native
 - 👯 I’m looking to collaborate on all kinds of projects 
-- 😄 I’m looking for help with opportunities to further my knowledge in Data Analysis
-- 💬 Ask me about anything realting to Data Analysis
+- 😄 I’m looking for help with opportunities to further my knowledge in Mobile Development
+- 💬 Ask me about anything related to Data Analysis
 - 📫 How to reach me: onuohaclinton7@gmail.com
 - ⚡ Fun fact: I love to eat!
 
